@@ -36,15 +36,7 @@
 
 <br/>
 
-#### 2. [InfraBoys] AIOps 선제적 장애 대응 & FinOps 인프라 파이프라인
-* 온프레미스 제어 노드와 퍼블릭 클라우드를 연결하는 하이브리드 아키텍처 환경에서 AIOps 기반 자율형 인프라를 구축했습니다.
-* Prometheus 예측 함수를 활용한 선제적 오토스케일링을 구현하고, CI 파이프라인에 Infracost를 연동하여 사전 인프라 예산 산출(FinOps)을 달성했습니다.
-* **Tech Stack**: `AWS`, `Terraform`, `Ansible`, `FastAPI`, `Prometheus`, `Infracost`, `AIOps`
-* **Links**: [GitHub Repository](https://github.com/leesk0007/InfraBoys)
-
-<br/>
-
-#### 3. [MGPZZ] EKS 3-Tier 아키텍처 리팩토링 & 지능형 스케일링
+#### 2. [MGPZZ] EKS 3-Tier 아키텍처 리팩토링 & 지능형 스케일링
 * 모놀리식 구조를 App/Infra/GitOps 3-Tier로 완전 분리하고, Karpenter와 KEDA를 통한 이벤트 기반 지능형 스케일링 환경을 구축했습니다.
 * `aws sts` 기반 동적 S3/DynamoDB Lock 모듈화로 상태 충돌을 방지하고, Karpenter Spot 우선 할당 정책을 적용해 컴퓨팅 인프라 비용을 최적화했습니다.
 * **Tech Stack**: `AWS EKS`, `Terraform`, `Karpenter`, `KEDA`, `Redis`, `Prometheus`, `Grafana`, `k6`
@@ -52,19 +44,22 @@
 
 <br/>
 
-#### 4. [p01_dream_team] KT TECH UP 클라우드 인프라 자동화 & 모니터링
+#### 3. [InfraBoys] AIOps 선제적 장애 대응 & FinOps 인프라 파이프라인
+* 온프레미스 제어 노드와 퍼블릭 클라우드를 연결하는 하이브리드 아키텍처 환경에서 AIOps 기반 자율형 인프라를 구축했습니다.
+* Prometheus 예측 함수를 활용한 선제적 오토스케일링을 구현하고, CI 파이프라인에 Infracost를 연동하여 사전 인프라 예산 산출(FinOps)을 달성했습니다.
+* **Tech Stack**: `AWS`, `Terraform`, `Ansible`, `FastAPI`, `Prometheus`, `Infracost`, `AIOps`
+* **Links**: [GitHub Repository](https://github.com/leesk0007/InfraBoys)
+
+<br/>
+
+
+#### 4. [p01_dream_team] 클라우드 인프라 자동화 & 모니터링
 * Terraform, Ansible, GitHub Actions를 결합하여 AWS 인프라 자동 프로비저닝 및 FastAPI 무중단 자동 배포 파이프라인을 구축했습니다.
 * Prometheus와 Grafana 기반의 메트릭 수집 및 Alert Rule을 구성하고, WAS AMI 이미지 최적화 및 트래픽 부하 대응 오토스케일링 정책을 설계했습니다.
 * **Tech Stack**: `AWS`, `Terraform`, `Ansible`, `GitHub Actions`, `Prometheus`, `Grafana`
 * **Links**: [GitHub Repository](https://github.com/leesk0007/p01_dream_team)
 
 <br/>
-
-#### 5. [Runify] 러닝 코스 생성 플랫폼 인프라 자동화
-* 사용자 그림 기반 러닝 경로 서비스의 클라우드 인프라 프로비저닝 및 지속적 통합/배포 환경을 구축했습니다.
-* Terraform 기반의 재사용 가능한 IaC 환경을 구성하고, GitHub Actions를 활용한 컨테이너 빌드 및 무중단 배포 자동화를 구현했습니다.
-* **Tech Stack**: `GCP`, `Terraform`, `Docker`, `GitHub Actions`
-* **Links**: [Runify Infra Repository](https://github.com/KozzilzzilE/Runify_infra)
 
 ---
 
