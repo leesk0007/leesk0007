@@ -8,7 +8,6 @@
 <p align="left">
   <a href="mailto:leesk000107@naver.com"><img src="https://img.shields.io/badge/Email-leesk000107@naver.com-181717?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://github.com/leesk0007"><img src="https://img.shields.io/badge/GitHub-leesk0007-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
