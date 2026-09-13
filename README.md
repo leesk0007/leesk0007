@@ -61,7 +61,7 @@
 
 #### 3. [Runify] 러닝 코스 생성 플랫폼 인프라 자동화
 > 사용자 그림 기반 러닝 경로 서비스의 AWS 인프라 자동화 프로비저닝 및 지속적 통합/배포 환경 구성
-* **Tech Stack**: `AWS`, `Terraform`, `Docker`, `GitHub Actions`
+* **Tech Stack**: `GCP`, `Terraform`, `Docker`, `GitHub Actions`
 * **Repository**: [Runify Infra](https://github.com/KozzilzzilE/Runify_infra)
 
 ---
