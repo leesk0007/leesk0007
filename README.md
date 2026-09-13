@@ -69,6 +69,9 @@
 ### 📈 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesk0007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk0007&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leesk0007&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=leesk0007&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leesk0007&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Langs" />
 </p>
