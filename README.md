@@ -35,12 +35,10 @@
   * **Terraform 모듈화 & Atlantis 워크플로우**: PR 기반의 Terraform Plan/Apply 자동화를 통해 팀 내 인프라 변경 이력 추적 및 협업 거버넌스 확립
   * **차세대 Kubernetes Gateway API 도입**: NGINX Ingress의 2단계 라우팅(인그레스 파드 거침) 병목을 해소하고, AWS ALB와 파드를 1단계로 직결하여 네트워크 지연 최소화
   * **ArgoCD 기반 GitOps 배포**: Helm Chart를 구조화하여 애플리케이션 및 인프라 매니페스트를 선언적으로 관리, 무중단 롤링 배포 실현
-  * **클라우드 보안 및 거버넌스**: AWS Secrets Manager 비대칭 키(RSA) 기반 인증과 SAST/DAST 보안 점검 파이프라인 구성
 * **Tech Stack**: `AWS EKS`, `Terraform`, `Atlantis`, `ArgoCD`, `Helm`, `Gateway API`, `Docker`, `Secrets Manager`
 * **Repositories**:
   * [Infra Repository (Terraform)](https://github.com/KT-Cloud-Tech-Up-team6/Fundit-Infra)
   * [GitOps Repository (ArgoCD & Helm)](https://github.com/KT-Cloud-Tech-Up-team6/Fundit-GitOps)
-  * [Security Repository (SAST/DAST)](https://github.com/KT-Cloud-Tech-Up-team6/Fundit-Security)
 
 <br/>
 
