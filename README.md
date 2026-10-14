@@ -31,7 +31,7 @@
 #### 1. [Fundit] 라이브 커머스 리워드 펀딩 인프라 & GitOps 파이프라인
 * 트래픽 변동성이 큰 라이브 커머스를 위한 AWS EKS 기반 인프라 구축 및 ArgoCD·Helm 무중단 GitOps 배포 환경을 설계했습니다.
 * Terraform & Atlantis로 PR 기반 인프라 자동화 체계를 확립하고, 차세대 Gateway API를 도입해 ALB-파드 직결 라우팅으로 지연 시간을 최적화했습니다.
-* **Tech Stack**: `AWS EKS`, `Terraform`, `Atlantis`, `ArgoCD`, `Helm`, `Gateway API`, `Docker`
+* **Tech Stack**: `AWS EKS`, `Terraform`, `ArgoCD`, `kustomize`, `Gateway API`, `Docker`
 * **Links**: [Infra Repository](https://github.com/KT-Cloud-Tech-Up-team6/Fundit-Infra) | [GitOps Repository](https://github.com/KT-Cloud-Tech-Up-team6/Fundit-GitOps)
 
 <br/>
@@ -39,7 +39,7 @@
 #### 2. [MGPZZ] EKS 3-Tier 아키텍처 리팩토링 & 지능형 스케일링
 * 모놀리식 구조를 App/Infra/GitOps 3-Tier로 완전 분리하고, Karpenter와 KEDA를 통한 이벤트 기반 지능형 스케일링 환경을 구축했습니다.
 * `aws sts` 기반 동적 S3/DynamoDB Lock 모듈화로 상태 충돌을 방지하고, Karpenter Spot 우선 할당 정책을 적용해 컴퓨팅 인프라 비용을 최적화했습니다.
-* **Tech Stack**: `AWS EKS`, `Terraform`, `Karpenter`, `KEDA`, `Redis`, `Prometheus`, `Grafana`, `k6`
+* **Tech Stack**: `AWS EKS`, `KRR`, `Terraform`, `Karpenter`, `KEDA`, `Redis`, `Prometheus`, `Grafana`, `Locust`
 * **Links**: [Infra Repository](https://github.com/MGPZZ/Infra) | [GitOps Repository](https://github.com/MGPZZ/GitOps)
 
 <br/>
