@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Cloud & DevOps Toolchain
+### Cloud & DevOps Toolchain
 
 | Category | Technologies |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏛 Featured Cloud Architecture Projects
+### Featured Cloud Architecture Projects
 
 #### 1. [Fundit] 라이브 커머스 리워드 펀딩 인프라 & GitOps 파이프라인
 * 트래픽 변동성이 큰 라이브 커머스를 위한 AWS EKS 기반 인프라 구축 및 ArgoCD·Helm 무중단 GitOps 배포 환경을 설계했습니다.
@@ -63,7 +63,7 @@
 
 ---
 
-### 📈 GitHub Activity
+### GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leesk0007&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
